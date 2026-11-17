@@ -1,8 +1,4 @@
-# Casos de prueba: cálculo de descuentos
-
-Clase: `DiscountCalculator`  
-Pruebas: `DiscountCalculatorTest`  
-Comando: `mvn test`
+# TDD
 
 1. **Descuento por porcentaje:** para un producto de 200.0 con un descuento del 15 %, el descuento debe ser 30.0.
 
